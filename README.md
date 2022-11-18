@@ -1,11 +1,14 @@
-# Aftermath 2050
+# Aftermath 2050 (https://aftermath2050.itch.io/aftermath-2050)
 
-## Story
-It is the year 2050. You play as Bob, living in an apartment together with your dad and mom, biomedical researchers working on experiments that could significantly increase the human lifespan.
+Aftermath 2050 is an environment-based roguelike game with procedurally generated levels in which you can only use objects within your environment as weapons to beat and survive the onslaught of enemies. It is 2050. Take over as Bob as he fights his way through a shopping mall filled with crazed monsters. Make use of whatever you find along the way to survive the onslaught and make it to the end.
 
-One day, you wake up alone to find out that a mysterious virus has been causing people in your apartment building to mutate into mindless monsters.
+Key features:
 
-On your journey to escape the building, discover the truth behind the outbreak.
+- Procedurally generated levels for a unique experience with each playthrough.
+
+- Environment-based weapons incorporated into the levels, including special ones with unique effects.
+
+- Various enemy types including bosses, each controlled by a complex and unique AI.
 
 ## Gameplay
 Objective: Escape by clearing all levels within the building and defeating all the monsters contained within them.
